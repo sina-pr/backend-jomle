@@ -4,6 +4,7 @@ backend of react native application "JOMLE" .
 Make sure you installed nodemon globally.
 
 in package.json dir:
+
   1-create  .env file .
   
   2- Add your PORT and DB_URL(URL from mongodb) to .env.
